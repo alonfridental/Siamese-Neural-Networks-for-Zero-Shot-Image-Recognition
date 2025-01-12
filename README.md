@@ -1,14 +1,15 @@
-# Siamese-Neural-Networks-for-Zero-Shot-Image-Recognition
-# Eyal Ben Barouch - 318651494  
-# Alon Fridental - 209370774  
-
-## Deep Learning Assignment 2 Report  
-### Siamese Neural Networks for One-shot Image Recognition  
+# Deep Learning Assignment 2 Report  
+## Siamese Neural Networks for One-shot Image Recognition  
 
 ---
 
 ## Introduction  
 In this project, we implemented a Siamese network architecture inspired by the paper *"Siamese Neural Networks for One-shot Image Recognition"* to solve the task of verifying whether two faces are identical or not. The network uses two identical branches to extract features from the image pairs, compares them using the L1 distance, and predicts if they match. Along the way, we learned about designing deep learning architectures, experimenting with different configurations, and understanding the impact of data augmentation, regularization, and hyperparameters. This hands-on experience highlighted what works and what doesn’t when training such models.
+
+---
+
+### Authors
+Alon Fridental and Eyal Ben Barouch
 
 ---
 
